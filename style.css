@@ -85,7 +85,7 @@ html{
     position:absolute;
     top:0px;
     left: 0px;
-    background: url('../bg3.jpg') no-repeat center center/cover;
+    background: url('bg3.jpg') no-repeat center center/cover;
     height: 550px;
     width:100%;
     z-index:-1;
